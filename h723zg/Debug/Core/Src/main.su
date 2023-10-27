@@ -1,0 +1,14 @@
+../Core/Inc/hal.h:12:20:chiprev	16	static
+../Core/Src/main.c:93:13:mqtt_publisher_event_handler	104	static
+../Core/Src/main.c:107:10:mg_millis	16	static
+../Core/Src/main.c:111:6:mg_random	24	static
+../Core/Src/main.c:120:13:timer_fn	56	static
+../Core/Src/main.c:134:5:main	224	static
+../Core/Src/main.c:211:6:disconnect_mqtt	8	static
+../Core/Src/main.c:221:6:SystemClock_Config	120	static
+../Core/Src/main.c:281:13:MX_ETH_Init	8	static
+../Core/Src/main.c:330:13:MX_RNG_Init	8	static
+../Core/Src/main.c:357:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:405:13:MX_USB_OTG_HS_USB_Init	4	static
+../Core/Src/main.c:426:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:509:6:Error_Handler	4	static,ignoring_inline_asm

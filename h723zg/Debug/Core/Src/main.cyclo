@@ -1,0 +1,14 @@
+../Core/Inc/hal.h:12:20:chiprev	3
+../Core/Src/main.c:93:13:mqtt_publisher_event_handler	2
+../Core/Src/main.c:107:10:mg_millis	1
+../Core/Src/main.c:111:6:mg_random	3
+../Core/Src/main.c:120:13:timer_fn	2
+../Core/Src/main.c:134:5:main	9
+../Core/Src/main.c:211:6:disconnect_mqtt	2
+../Core/Src/main.c:221:6:SystemClock_Config	4
+../Core/Src/main.c:281:13:MX_ETH_Init	2
+../Core/Src/main.c:330:13:MX_RNG_Init	2
+../Core/Src/main.c:357:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:405:13:MX_USB_OTG_HS_USB_Init	1
+../Core/Src/main.c:426:13:MX_GPIO_Init	1
+../Core/Src/main.c:509:6:Error_Handler	1
